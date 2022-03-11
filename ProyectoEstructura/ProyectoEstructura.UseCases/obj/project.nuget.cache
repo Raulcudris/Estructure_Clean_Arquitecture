@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "v2N4OS/CtoL6GOTkZYkNyZjoBiyOSecUh76wF9Xq6euS5WHFNO33+e0TZ8PzABexcBFvhcPcIkaV3FRk9SzveQ==",
+  "success": true,
+  "projectFilePath": "E:\\Proyectos-API\\CleanArchitecture\\ProyectoEstructura\\ProyectoEstructura.UseCases\\ProyectoEstructura.UseCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

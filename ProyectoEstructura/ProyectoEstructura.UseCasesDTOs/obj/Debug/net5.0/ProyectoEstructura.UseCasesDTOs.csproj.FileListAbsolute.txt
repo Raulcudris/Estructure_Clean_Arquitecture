@@ -1,0 +1,12 @@
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\bin\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.deps.json
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\bin\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\bin\Debug\net5.0\ref\ProyectoEstructura.UseCasesDTOs.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\bin\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.pdb
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.csprojAssemblyReference.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.AssemblyInfoInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.AssemblyInfo.cs
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.csproj.CoreCompileInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ref\ProyectoEstructura.UseCasesDTOs.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCasesDTOs\obj\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.pdb

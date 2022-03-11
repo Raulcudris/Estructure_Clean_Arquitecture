@@ -1,0 +1,12 @@
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\bin\Debug\net5.0\ProyectoEstructura.Entities.deps.json
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\bin\Debug\net5.0\ProyectoEstructura.Entities.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\bin\Debug\net5.0\ref\ProyectoEstructura.Entities.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\bin\Debug\net5.0\ProyectoEstructura.Entities.pdb
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.csprojAssemblyReference.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.AssemblyInfoInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.AssemblyInfo.cs
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.csproj.CoreCompileInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ref\ProyectoEstructura.Entities.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.Entities\obj\Debug\net5.0\ProyectoEstructura.Entities.pdb
