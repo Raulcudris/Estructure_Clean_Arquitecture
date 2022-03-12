@@ -1,0 +1,17 @@
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.UseCases.deps.json
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.UseCases.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ref\ProyectoEstructura.UseCases.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.UseCases.pdb
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.Entities.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.Entities.pdb
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\bin\Debug\net5.0\ProyectoEstructura.UseCasesDTOs.pdb
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.csprojAssemblyReference.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.AssemblyInfoInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.AssemblyInfo.cs
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.csproj.CoreCompileInputs.cache
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.csproj.CopyComplete
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ref\ProyectoEstructura.UseCases.dll
+E:\Proyectos-API\CleanArchitecture\ProyectoEstructura\ProyectoEstructura.UseCases\obj\Debug\net5.0\ProyectoEstructura.UseCases.pdb
